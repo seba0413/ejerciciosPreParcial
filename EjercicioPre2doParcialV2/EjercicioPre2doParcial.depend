@@ -1,0 +1,67 @@
+# depslib dependency file v1.0
+1529627597 source:/home/alumno/EjercicioPre2doParcialV2/ArrayList.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayList.h"
+	"Empleado.h"
+
+1529623558 /home/alumno/EjercicioPre2doParcialV2/ArrayList.h
+
+1529627615 source:/home/alumno/EjercicioPre2doParcialV2/Empleado.c
+	"Empleado.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1529624088 /home/alumno/EjercicioPre2doParcialV2/Empleado.h
+
+1529627830 source:/home/alumno/EjercicioPre2doParcialV2/Parser.c
+	<stdio.h>
+	<stdlib.h>
+	"ArrayList.h"
+	"Empleado.h"
+
+1529628170 source:/home/alumno/EjercicioPre2doParcialV2/main.c
+	<stdio.h>
+	<stdlib.h>
+	"Empleado.h"
+	"ArrayList.h"
+	"Parser.h"
+
+1529543258 /home/alumno/EjercicioPre2doParcialV2/Parser.h
+	"ArrayList.h"
+
+1529804744 source:c:\espaciodetrabajo\ejerciciopre2doparcialv2\empleado.c
+	"Empleado.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1529804768 c:\espaciodetrabajo\ejerciciopre2doparcialv2\empleado.h
+
+1529804731 source:c:\espaciodetrabajo\ejerciciopre2doparcialv2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Empleado.h"
+	"ArrayList.h"
+	"Parser.h"
+
+1529614030 c:\espaciodetrabajo\ejerciciopre2doparcialv2\arraylist.h
+
+1529614030 c:\espaciodetrabajo\ejerciciopre2doparcialv2\parser.h
+	"ArrayList.h"
+
+1529804160 source:c:\espaciodetrabajo\ejerciciopre2doparcialv2\arraylist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayList.h"
+	"Empleado.h"
+
+1529790839 source:c:\espaciodetrabajo\ejerciciopre2doparcialv2\parser.c
+	<stdio.h>
+	<stdlib.h>
+	"ArrayList.h"
+	"Empleado.h"
+
