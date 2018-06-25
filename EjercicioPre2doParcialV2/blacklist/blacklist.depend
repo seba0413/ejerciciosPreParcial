@@ -1,0 +1,48 @@
+# depslib dependency file v1.0
+1529941322 source:c:\espaciodetrabajo\practica2parcial\blacklist\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Destinatario.h"
+	"ArrayList.h"
+	"parcer.h"
+	"utn.h"
+
+1529941161 source:c:\espaciodetrabajo\practica2parcial\blacklist\arraylist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayList.h"
+
+1529940084 c:\espaciodetrabajo\practica2parcial\blacklist\arraylist.h
+
+1529941132 source:c:\espaciodetrabajo\practica2parcial\blacklist\employee.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Destinatario.h"
+
+1529888396 c:\espaciodetrabajo\practica2parcial\blacklist\destinatario.h
+
+1529883130 source:c:\espaciodetrabajo\practica2parcial\blacklist\parcer.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Destinatario.h"
+	"ArrayList.h"
+
+1524691840 source:c:\espaciodetrabajo\practica2parcial\blacklist\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"utn.h"
+
+1524691840 c:\espaciodetrabajo\practica2parcial\blacklist\utn.h
+
+1529883140 c:\espaciodetrabajo\practica2parcial\blacklist\parcer.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Destinatario.h"
+	"ArrayList.h"
+
